@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+reportlab
+python-dotenv
+langchain
+langchain_google_genai
+langchain-huggingface
+huggingface_hub
